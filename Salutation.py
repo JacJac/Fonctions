@@ -41,10 +41,12 @@ print("==============")
 cube = lambda x: x*x*x
 exponent = lambda x,n : x**n
 repeter = lambda x : x*10
+toto= lambda x:x+3
 
 print(cube(4))
 print(exponent(10,3))
 print(repeter("ok "))
+print(toto(5))
 
 
 
